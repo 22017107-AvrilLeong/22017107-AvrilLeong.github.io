@@ -12,7 +12,7 @@ Refer to my [personal github](https://avril-leong.github.io) for more 👩‍�
 ### 🎯 Projects
 - **ConsoleRescue**
   [Project Repository](https://github.com/22017107-AvrilLeong/C372_ConsoleRescue)
-  -*C372 Payment Technologies*  
+  *C372 Payment Technologies*  
   - E-commerce website offering repair parts for retro gaming devices
   - Skills Used: Java Spring, markup languages, JavaScript, SQL
   - Fully functional website with interactive & reponsive design, as well as proper security restriction
@@ -21,7 +21,7 @@ Refer to my [personal github](https://avril-leong.github.io) for more 👩‍�
   
 - **Money Exchange System**
   [Project Repository](https://github.com/22017107-AvrilLeong/C206_CaseStudy)
-  -*C206 Software Development*  
+  *C206 Software Development*  
   - Introduction to SCRUM Agile Methology
   - Implemented key features including **User Management** (role-based access), **Currency and Rate Management** (real-time exchange rates), **Transaction Processing** (validates and updates transactions), and
     **Account Management** (balances and histories).**Feedback Management** to gather customer ratings and feedback, and **Automated Email Notifications** for transaction confirmations and updates.
