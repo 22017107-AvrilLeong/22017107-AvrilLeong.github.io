@@ -30,8 +30,7 @@ Refer to my [personal github](https://avril-leong.github.io) for more 👩‍�
 
 ---
 
-This captures the essence of the system while keeping it concise!
-    
+More Projects on my personal github!    
 ---
 
 ### 📫 Let's Connect
